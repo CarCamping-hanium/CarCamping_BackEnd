@@ -1,5 +1,6 @@
 # CarCamping_BackEnd
 ### 차박지 어플 서버 개발
+1분 시연영상 https://www.youtube.com/watch?v=G6sgITtaU8A&t=1s
 <br><br>
 # 서비스 아키텍쳐
 <img src="https://user-images.githubusercontent.com/59498625/132569910-d66c2c0f-623d-4055-9630-f79cbb26fbd0.png" width="80%" height="80%"><br>
